@@ -40,11 +40,11 @@ engine = {"Petrol":1, "Diesel":0}
 origin = {"Foreign":1, "Local":0}
 year = {i: year_array[i] for i in range(1, len(year_array))}
 brand = {"Lexus":"1", "Honda":"2", "Mercedes-Benz":"3", "Toyota":"4", "Volkswagen":"5"}
-toyota = {i: toyota_models[i] for i in range (1, len(toyota_models))}
-honda = {i: honda_models[i] for i in range (1, len(honda_models))}
-benz = {i: benz_models[i] for i in range (1, len(benz_models))}
-lexus = {i: lexus_models[i] for i in range (1, len(lexus_models))}
-volks = {i: volks_models[i] for i in range (1, len(volks_models))}
+toyota = {i: toyota_models[i] for i in range (0, len(toyota_models))}
+honda = {i: honda_models[i] for i in range (0, len(honda_models))}
+benz = {i: benz_models[i] for i in range (0, len(benz_models))}
+lexus = {i: lexus_models[i] for i in range (0, len(lexus_models))}
+volks = {i: volks_models[i] for i in range (0, len(volks_models))}
 
 
 
