@@ -4,7 +4,7 @@ gunicorn==20.0.4
 jinja2>=2.11.3
 joblib==0.14.1
 numpy==1.18.1
-pandas==1.0.1
+pandas
 pickleshare==0.7.5
 requests==2.23.0
 scikit-learn==0.22.2.post1
