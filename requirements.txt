@@ -3,7 +3,7 @@ Flask-Jsonpify==1.5.0
 gunicorn==20.0.4
 jinja2>=2.11.3
 joblib==0.14.1
-numpy==1.18.1
+numpy==1.22.0
 pandas
 pickleshare==0.7.5
 requests==2.23.0
