@@ -11,4 +11,4 @@ scikit-learn==0.22.2.post1
 sklearn==0.0
 urllib3==1.25.8
 streamlit==0.57.3
-setuptools==1.0
+setuptools==65.5.1
